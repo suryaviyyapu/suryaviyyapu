@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suryaviyyapu
 - 👀 I’m interested in information security
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on any projects that are related to Infosec, Web
+- 🌱 I’m still learning
+- 💞️ I’m looking to collaborate on projects that are related to Infosec, Web
 - 📫 You can reach me https://t.me/z3rod0t
 
 <!---
