@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Various web application security projects.<br><br>👯 I’m looking to collaborate on: Web and mobile application security projects, as well as open-source cybersecurity tools.<br><br>🤝 I’m looking for help with: Optimizing automated security testing workflows in CI/CD pipelines, and integrating new features into my portfolio projects.<br><br>💬 Ask me about: Web & mobile app pentesting, OWASP Top 10 vulnerabilities, threat modeling, and integrating secure code reviews into development workflows.
+👯 I’m looking to collaborate on: Web and mobile application security projects, as well as open-source cybersecurity tools.<br><br>💬 Ask me about: Web & mobile app pentesting, OWASP Top 10 vulnerabilities, threat modeling, and integrating secure code reviews into development workflows.
 
 
 ## 🌐 Socials:
